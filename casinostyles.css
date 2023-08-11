@@ -71,7 +71,7 @@ nav ul li a:hover{
     height: 760px;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(assets/casino4.avif);
+    background-image: url(casino4.avif);
     position: relative;
 }
 .header-heading{
